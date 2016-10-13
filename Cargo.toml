@@ -1,0 +1,7 @@
+[package]
+name = "rcp"
+version = "0.2.1"
+authors = ["Evgeny Ukhanov <mrlsd@ya.ru>"]
+
+[dependencies]
+clap = "*"
