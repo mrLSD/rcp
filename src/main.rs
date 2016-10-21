@@ -36,7 +36,7 @@ fn main() {
 
 fn get_args() -> Params {
     let matches = App::new("rcp")
-                    .version("0.2")
+                    .version("0.2.1")
                     .about("Copy Files - Rustlang based files copy.")
                     .arg(Arg::with_name("buffer")
                         .short("b")

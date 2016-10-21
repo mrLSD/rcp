@@ -18,4 +18,5 @@ Main features:
 * Basic usage: `target/release/rcp inpit_file output_file`
 * Custom buffer size: `target/release/rcp -b 1024 inpit_file output_file`
 
-#### MIT LICENSE
+#### MIT LICENSE [![License](http://img.shields.io/badge/license-mit-blue.svg?style=flat-square)](https://raw.githubusercontent.com/mrLSD/rcp/master/LICENSE)
+
